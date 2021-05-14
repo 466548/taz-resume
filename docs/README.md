@@ -5,7 +5,7 @@
 |key|value|
 |---|---|
 |氏名|塚田友美|
-|生年月日|昭和 58 年 3 月 8 日|
+|生年月日|昭和58年3月8日|
 |Twitter|[taz](https://twitter.com/466548)|
 |note|[taz](https://note.com/466548)|
 |Github|[taz](https://github.com/466548)|
@@ -14,38 +14,14 @@
 ---
 
 ## 保有スキル
+- Ruby on Rails の中の slim、scss を用いて LP など静的マークアップ
 - 会話を重ねながら検討することが好きです
-
 - html を意識しつつの Web デザイン
 - FLOCSS ベースとした CSS
 - PR マーケ施策検討・広告作成
 - サービスのワイヤーフレーム/プロトタイプの制作
-- Ruby on Rails の中の slim、scss を用いて LP など静的マークアップ
 - 勉強会、社内学習のコミュニティ形成
 
-
----
-
-## 技術スタック
-### Design
-- Adobe XD
-- Figma
-- Photoshop
-- Illustrator
-
-### Programming
-
-- HTML
-- SCSS
-- Ruby
-- slim
-- Git
-### フレームワーク・その他
-- Ruby on Rails ちょっとワカル
-  -  Ruby on Rails の中に LP つくったりできます
-- Vue ちょっとワカル
-- Firebace
-  -  ベーシック認証かけて、デモ環境作ったり環境わけたりできます
 
 ---
 
@@ -57,27 +33,20 @@ bosyu、[bosyuJobs](http://jobs.bosyu.me/)の Web デザイン／UI デザイン
 
 [在宅派遣](https://www.zaitakuhaken.com/)、[reworker](https://www.reworker.jp/agent)のデザイン／マークアップ担当
 
-- **プロジェクト規模：**
-    - 平均 2〜4 人チーム OKR でわかれたチームでの開発、デザイン
 - **役割：**
     - Web デザイン、コーディング、レビュー
-    - PR 周りのデザインを担当（SNS 発信用画像、PR 系 LP デザイン）
-    - サービスのチョロ系対応などプルリク送ったりします
-- **作業詳細：**
-    - Slim＋SCSS を用いたコーディング
-    - 施策検討、展開、サービス LP のデザイン
-    - SNS 用画像や PR、プレスリリース用画像作成
+    - LPのデザインおよび、実装
+      - （Slim＋SCSS を用いたコーディング）
+      - 施策検討、展開、サービス LP のデザイン
+    - Ruby on Rails で作られたサービスデザイン、及び実装
 
 ### [シフトプラス株式会社](https://www.shiftplus.co.jp/)（2018/5〜2019/08）
 
 自社サービスである自治体向け総合行政プラットフォームサービス「LGSTA(レジスタ）」の UI/UX 担当。
 
-- **プロジェクト規模：**
-    - 平均 3〜4 人チームでの開発、デザイン
-- **役割：**
-    - UI デザイン、パンフレットや印刷周り担当
 - **プロジェクト詳細：**
     - 行政の業務効率化 職員出退管理システム「AMS」の UI デザイン担当
+      - Angular を用いたコーディング
     - プラットフォームサービス「LGSTA(レジスタ）」の UI デザイン担当
     - 自治体向け総合行政プラットフォームサービス「LGSTA(レジスタ）」のパンフレット、印刷周り担当
 
@@ -85,16 +54,33 @@ bosyu、[bosyuJobs](http://jobs.bosyu.me/)の Web デザイン／UI デザイン
 
 受託制作の Web サイト制作・ディレクション・デザイン・マークアップ担当
 
-- **プロジェクト規模：**
-    - 平均 2〜4 人チームでの開発、デザイン
-- **役割：**
-    - デザイン・マークアップ担当
 - **プロジェクト詳細：**
-    - 自動車メーカーの副資材・販売促進のグッズのシステム UI デザイン担当
+    - 自動車メーカーの副資材・販売促進のグッズのシステム UI デザイン・実装
     - 半導体メーカーの Web サイトディレクション、デザイン、WordPress 構築担当
     - 量販店スーパーの Web サイトリニューアルのデザイン、マークアップ担当
 
+---
+## 技術スタック
+### Design
+- Adobe XD
+- Figma
+- Photoshop
+- Illustrator
 
+### Programming
+- HTML
+- SCSS
+- Ruby
+- slim
+- Git
+### フレームワーク・その他
+- Ruby on Rails
+  -  Ruby on Rails の中に slimを使用してLPつくったりできます
+- Vue ちょっとワカル
+- Firebace
+  -  ベーシック認証かけて、デモ環境作ったり環境わけたりできます
+
+---
 ## 業務外活動
 ### 大学
 
@@ -107,13 +93,6 @@ bosyu、[bosyuJobs](http://jobs.bosyu.me/)の Web デザイン／UI デザイン
 - **WordCamp Japan 2021 実行委員（セッション班班長）**
 - **WordCamp Osaka2019 実行委員（デザインチームリーダー）**
 - **WordCamp Kyoto 2017 実行委員、WordCamp Osaka2018 実行委員**
-
-### 副業
-
-- 医療系サービス
-    - UI デザイン、Storybook の導入、コンポーネントライブラリの作成
-    - 不定期
-
 ### 記事投稿
 
 - **note**
