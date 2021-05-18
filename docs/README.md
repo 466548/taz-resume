@@ -9,6 +9,7 @@
 |Twitter|[taz](https://twitter.com/466548)|
 |note|[taz](https://note.com/466548)|
 |Github|[taz](https://github.com/466548)|
+|portsfilio|[taz](https://drive.google.com/file/d/19DGGVssItoZYdQO2IH4I1hy287faQDwt/view?usp=sharing)|
 
 ---
 
@@ -18,6 +19,7 @@
   - DOM 意識しつつの Web デザイン
   - SEO フレンドリーな HTML 設計・開発
   - FLOCSS ベースとした CSS
+  - HubspotでのLPやフォームの作成
   - Ruby on Rails の中の slim、scss を用いて LP など静的マークアップ
 - 広告経験から培った技術
   - マーケ施策検討
