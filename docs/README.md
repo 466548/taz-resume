@@ -36,11 +36,16 @@
 ---
 
 ## 職務経歴詳細
+### [非公開]
+- サーベイツール機能改善
+- キャリアサービス 広告バナー作成
+
 ### [アディッシュ株式会社](https://www.adish.co.jp/)（2021/8入社）
 - UI/UXデザイナー
-- ユーザビリティテスト　実施等
-- 新規サービス立ち上げ
-- 既存サイトの更新、マークアップ
+- チャットボットサービスのUIデザイン/体験設計
+- 管理画面のUIデザイン/体験設計
+- キャンペーンページや企画などのマーケデザイン
+- ユーザビリティテスト、仮説検証
 
 - **実績：**
     - 社内のユーザビリティテスト推進
@@ -153,10 +158,10 @@ bosyu、[bosyuJobs](http://jobs.bosyu.me/)の Web デザイン／UI デザイン
 
 ### 勉強会での登壇
 
-- WordCamp 大阪**（2019/12）**
+- WordCamp 大阪 **（2019/12）**
     - ライフスタイルに合わせて活動する WordCamp Osaka 2019 デザインチーム
     - [https://osaka.wordcamp.org/2019/session/activity-report-of-wco2019-design-team-with-multi-lifestyles/](https://osaka.wordcamp.org/2019/session/activity-report-of-wco2019-design-team-with-multi-lifestyles/)
-- Adobe XD ユーザーフェス (福岡）**（2019/08）**
+- Adobe XD ユーザーフェス (福岡） **（2019/08）**
     - システム会社で XD 使って得だった話（過去形）と現在進行形のお話
     - [https://xdug.jp/xdufes2019fuk_report/](https://xdug.jp/xdufes2019fuk_report/)
 
